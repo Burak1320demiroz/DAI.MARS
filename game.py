@@ -1,6 +1,6 @@
 """
 DAİ.MARS
-Copyright (c) 2023 Your Name
+Copyright (c) 2023 Burak Demiröz
 
 Licensed under the MIT License (see LICENSE for details)
 """
